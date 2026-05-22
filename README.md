@@ -50,12 +50,12 @@
 
 References:  
 https://github.com/flathub/com.discordapp.Discord/issues/29  
-https://github.com/iCrawl/discord-vscode/issues/77#issuecomment-435622205  
-https://github.com/iCrawl/discord-vscode/issues/85#issuecomment-417895483
+https://github.com/HarviLehal/discord-vscodeissues/77#issuecomment-435622205  
+https://github.com/HarviLehal/discord-vscodeissues/85#issuecomment-417895483
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/iCrawl/discord-vscode/fork)!
+1. [Fork the repository](https://github.com/HarviLehal/discord-vscodefork)!
 2. Clone your fork: `git clone https://github.com/your-username/discord-vscode.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
